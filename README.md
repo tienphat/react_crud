@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install
+1. Nodejs, mongoDb, yarn
+2. In root folder, run: `npm install`, `yarn`
+2. In api folder, run: `npm install`
+
+## Run API 
+Move to api folder, and run:
+
+### `nodemon server`
+
 ## Available Scripts
 
 In the project directory, you can run:
